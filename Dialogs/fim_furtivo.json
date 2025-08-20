@@ -1,0 +1,40 @@
+{
+  "todasAsLinhas": [
+    {
+      "nome": "Fúria",
+      "frase": "Ok, vamos pelo caminho silencioso. Menos chance de dar errado.",
+      "nomeImagemFundo": "Imagem3",
+      "nomeImagemPersonagem": "Furia_avatar"
+    },
+    {
+      "nome": "Kit",
+      "frase": "Boa escolha. Pata por pata, sem pressa. Eu te dou um impulso para a maçaneta. Silêncio total.",
+      "nomeImagemFundo": "Imagem4",
+      "nomeImagemPersonagem": "Kit_Seria_Avatar"
+    },
+    {
+      "nome": "Kit",
+      "frase": "Pronto? No três... Um... Dois... AGORA!",
+      "nomeImagemFundo": "Imagem4",
+      "nomeImagemPersonagem": "Kit_Seria_Avatar"
+    },
+    {
+      "nome": "Fúria (pensamento)",
+      "frase": "Conseguimos! A porta abriu! O cheiro... o cheiro glorioso de peixe!",
+      "nomeImagemFundo": "Imagem5",
+      "nomeImagemPersonagem": "Furia_avatar"
+    },
+    {
+      "nome": "Kit",
+      "frase": "(Som de chave na porta) Rápido! Pegue o seu peixe e vamos embora!",
+      "nomeImagemFundo": "Imagem5",
+      "nomeImagemPersonagem": "Kit_Seria_Avatar"
+    },
+    {
+      "nome": "Fúria (pensamento)",
+      "frase": "Missão cumprida. Ninguém nunca saberá...",
+      "nomeImagemFundo": "Imagem6",
+      "nomeImagemPersonagem": "furia_feliz_avatar"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "todasAsLinhas": [
+    {
+      "nome": "Fúria",
+      "frase": "É... com certeza é mais alta de perto. Tem certeza que isso vai dar certo?",
+      "nomeImagemFundo": "Imagem3",
+      "nomeImagemPersonagem": ""
+    },
+    {
+      "nome": "Kit",
+      "frase": "A dúvida é para os fracos, Fúria. Contemple o nosso alvo: o Banco de Peixes. Impenetrável para amadores, mas não para nós.",
+      "nomeImagemFundo": "Imagem3",
+      "nomeImagemPersonagem": "Kit_Seria_Avatar"
+    },
+    {
+      "nome": "Kit",
+      "frase": "O plano é simples: chegar à maçaneta. Como faremos isso... depende da sua escolha.",
+      "nomeImagemFundo": "Imagem3",
+      "nomeImagemPersonagem": "Kit_Seria_Avatar"
+    }
+  ]
+}

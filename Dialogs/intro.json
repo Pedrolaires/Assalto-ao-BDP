@@ -1,0 +1,34 @@
+{
+  "todasAsLinhas": [
+    {
+      "nome": "Fúria (pensamento)",
+      "frase": "Ok, Fúria... Encara o gato no espelho. Ele parece durão? Não. Ele parece um novelo de lã assustado.",
+      "nomeImagemFundo": "Imagem1",
+      "nomeImagemPersonagem": "Furia_avatar"
+    },
+    {
+      "nome": "Fúria (pensamento)",
+      "frase": "Preciso de uma pose mais... feroz. Talvez se eu eriçar o pelo assim?",
+      "nomeImagemFundo": "Imagem1",
+      "nomeImagemPersonagem": "Furia_avatar"
+    },
+    {
+      "nome": "Kit",
+      "frase": "Se você vai continuar fazendo caretas para si mesmo, pelo menos faça algo útil e veja se a barra está limpa.",
+      "nomeImagemFundo": "Imagem2",
+      "nomeImagemPersonagem": "Kit_Seria_Avatar"
+    },
+    {
+      "nome": "Fúria",
+      "frase": "Kit! Eu não estava fazendo careta! Estava... treinando minha intimidação!",
+      "nomeImagemFundo": "Imagem2",
+      "nomeImagemPersonagem": "Furia_avatar"
+    },
+    {
+      "nome": "Kit",
+      "frase": "Guarde sua 'intimidação'. O Gigante de Duas Pernas saiu. A operação é agora.",
+      "nomeImagemFundo": "Imagem2",
+      "nomeImagemPersonagem": "Kit_Seria_Avatar"
+    }
+  ]
+}

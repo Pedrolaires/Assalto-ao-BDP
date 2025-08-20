@@ -1,0 +1,40 @@
+{
+  "todasAsLinhas": [
+    {
+      "nome": "Fúria",
+      "frase": "Vamos com o plano barulhento! Mais rápido, mais emocionante!",
+      "nomeImagemFundo": "Imagem4_Escolha",
+      "nomeImagemPersonagem": "furia_feliz_avatar"
+    },
+    {
+      "nome": "Kit",
+      "frase": "Adoro seu entusiasmo. Prepare-se para o impulso! Vamos derrubar aquele vaso e usar a toalha como rampa. Vai ser um caos.",
+      "nomeImagemFundo": "Imagem4_Escolha",
+      "nomeImagemPersonagem": "Kit_seria_avatar"
+    },
+    {
+      "nome": "Kit",
+      "frase": "AGORA! (CRASH! O som de frutas rolando pelo chão) Au au au! (Um cachorro late ao longe)",
+      "nomeImagemFundo": "Imagem4_Escolha",
+      "nomeImagemPersonagem": "Kit_seria_avatar"
+    },
+    {
+      "nome": "Fúria",
+      "frase": "Funcionou! A porta abriu! Mas o cachorro do vizinho vai alertar todo mundo!",
+      "nomeImagemFundo": "Imagem5_DentroDaGeladeira",
+      "nomeImagemPersonagem": "Furia_avatar"
+    },
+    {
+      "nome": "Kit",
+      "frase": "(Som de chave na porta) Não temos tempo! Pegue o peixe, agora! Deixe a bagunça para o Gigante limpar!",
+      "nomeImagemFundo": "Imagem5_DentroDaGeladeira",
+      "nomeImagemPersonagem": "Kit_seria_avatar"
+    },
+    {
+      "nome": "Fúria (pensamento)",
+      "frase": "Missão cumprida. Valeram a pena o caos e a gritaria.",
+      "nomeImagemFundo": "Imagem6_Sofa",
+      "nomeImagemPersonagem": "furia_feliz_avatar"
+    }
+  ]
+}

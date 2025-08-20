@@ -4,7 +4,7 @@
       "nome": "Fúria",
       "frase": "É... com certeza é mais alta de perto. Tem certeza que isso vai dar certo?",
       "nomeImagemFundo": "Imagem3",
-      "nomeImagemPersonagem": ""
+      "nomeImagemPersonagem": "Furia_avatar"
     },
     {
       "nome": "Kit",
@@ -14,7 +14,7 @@
     },
     {
       "nome": "Kit",
-      "frase": "O plano é simples: chegar à maçaneta. Como faremos isso... depende da sua escolha.",
+      "frase": "O plano é simples: chegar à maçaneta. Como faremos isso... já é outra historia.",
       "nomeImagemFundo": "Imagem3",
       "nomeImagemPersonagem": "Kit_Seria_Avatar"
     }
